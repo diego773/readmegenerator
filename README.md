@@ -43,4 +43,8 @@ THEN I am taken to the corresponding section of the README
 
 <img src="mobile-demo.gif">
 
+## Link to the video
+
+https://diego773.github.io/readmegenerator/
+
 © 2021 Jivaro Inc. brand. All Rights Reserved.
